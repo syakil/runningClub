@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\syaki\\source\\repos\\RunningClube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|c:\\users\\syaki\\source\\repos\\runningclube\\runningclube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|solutionrelative:runningclube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|c:\\users\\syaki\\source\\repos\\runningclube\\runningclube\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|solutionrelative:runningclube\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|c:\\users\\syaki\\source\\repos\\runningclube\\runningclube\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|solutionrelative:runningclube\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|c:\\users\\syaki\\source\\repos\\runningclube\\runningclube\\data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|solutionrelative:runningclube\\data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|c:\\users\\syaki\\source\\repos\\runningclube\\runningclube\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|solutionrelative:runningclube\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|c:\\users\\syaki\\source\\repos\\runningclube\\runningclube\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|solutionrelative:runningclube\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|c:\\users\\syaki\\source\\repos\\runningclube\\runningclube\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|solutionrelative:runningclube\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|c:\\users\\syaki\\source\\repos\\runningclube\\runningclube\\data\\enum\\racecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|solutionrelative:runningclube\\data\\enum\\racecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|c:\\users\\syaki\\source\\repos\\runningclube\\runningclube\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|solutionrelative:runningclube\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|c:\\users\\syaki\\source\\repos\\runningclube\\runningclube\\data\\enum\\clubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|solutionrelative:runningclube\\data\\enum\\clubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|c:\\users\\syaki\\source\\repos\\runningclube\\runningclube\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550AD6B8-A611-4902-8438-1FF8271703CB}|RunningClube\\RunningClube.csproj|solutionrelative:runningclube\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Data\\UserRoles.cs",
+              "RelativeDocumentMoniker": "RunningClube\\Data\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Data\\UserRoles.cs",
+              "RelativeToolTip": "RunningClube\\Data\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:12:54.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "RunningClube\\Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Data\\Seed.cs",
+              "RelativeToolTip": "RunningClube\\Data\\Seed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:12:22.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\appsettings.json",
+              "RelativeDocumentMoniker": "RunningClube\\appsettings.json",
+              "ToolTip": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\appsettings.json",
+              "RelativeToolTip": "RunningClube\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T15:04:14.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Program.cs",
+              "RelativeDocumentMoniker": "RunningClube\\Program.cs",
+              "ToolTip": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Program.cs",
+              "RelativeToolTip": "RunningClube\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:29:41.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RunningClube\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RunningClube\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:20:57.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RaceCategory.cs",
+              "DocumentMoniker": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Data\\Enum\\RaceCategory.cs",
+              "RelativeDocumentMoniker": "RunningClube\\Data\\Enum\\RaceCategory.cs",
+              "ToolTip": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Data\\Enum\\RaceCategory.cs",
+              "RelativeToolTip": "RunningClube\\Data\\Enum\\RaceCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:12:52.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Race.cs",
+              "DocumentMoniker": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Models\\Race.cs",
+              "RelativeDocumentMoniker": "RunningClube\\Models\\Race.cs",
+              "ToolTip": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Models\\Race.cs",
+              "RelativeToolTip": "RunningClube\\Models\\Race.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:12:16.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClubCategory.cs",
+              "DocumentMoniker": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Data\\Enum\\ClubCategory.cs",
+              "RelativeDocumentMoniker": "RunningClube\\Data\\Enum\\ClubCategory.cs",
+              "ToolTip": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Data\\Enum\\ClubCategory.cs",
+              "RelativeToolTip": "RunningClube\\Data\\Enum\\ClubCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:07:35.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Club.cs",
+              "DocumentMoniker": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Models\\Club.cs",
+              "RelativeDocumentMoniker": "RunningClube\\Models\\Club.cs",
+              "ToolTip": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Models\\Club.cs",
+              "RelativeToolTip": "RunningClube\\Models\\Club.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:05:32.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "RunningClube\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Models\\AppUser.cs",
+              "RelativeToolTip": "RunningClube\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:04:56.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "RunningClube\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\syaki\\source\\repos\\RunningClube\\RunningClube\\Models\\Address.cs",
+              "RelativeToolTip": "RunningClube\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:04:32.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
