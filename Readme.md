@@ -4,8 +4,6 @@ A full-featured web application for a local running club built with ASP.NET Core
 
 This application allows users to find and join running clubs, view upcoming races and events, and connect with other runners.
 
-![App Screenshot](./path-to-your-screenshot.png)
-*(You should add a screenshot of your application's homepage here!)*
 
 ---
 
@@ -54,19 +52,18 @@ You need to have the following software installed:
 
 1.  **Clone the repository**
     ```sh
-    git clone [https://github.com/your-github-username/your-repo-name.git](https://github.com/your-github-username/your-repo-name.git)
+    git clone [https://github.com/syakil/runningClub.git](https://github.com/syakil/runningClub.git)
     ```
 
 2.  **Navigate to the project directory**
     ```sh
-    cd your-repo-name
+    cd runningClube
     ```
 
 3.  **Configure your settings**
     * Rename `appsettings.Development.json.example` to `appsettings.Development.json`.
     * Inside `appsettings.Development.json`, update the `DefaultConnection` with your SQL Server connection string.
-    * Add your Cloudinary API credentials under the `CloudinarySettings` section.
-    
+  
     ```json
     "ConnectionStrings": {
       "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=RunGroopWebApp;Trusted_Connection=True;..."
@@ -101,4 +98,4 @@ You need to have the following software installed:
 
 This project was built as a learning exercise by following the "Learn ASP.NET Core MVC" tutorial series. A huge thank you to the creator for the excellent and informative content.
 
-* [Link to the YouTube Playlist or Course](http://link-to-the-playlist-here.com)
+* [Link to the YouTube Playlist or Course](https://www.youtube.com/playlist?list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO)
