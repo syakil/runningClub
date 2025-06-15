@@ -52,7 +52,7 @@ You need to have the following software installed:
 
 1.  **Clone the repository**
     ```sh
-    git clone ![https://github.com/syakil/runningClub.git](https://github.com/syakil/runningClub.git)
+    git clone https://github.com/syakil/runningClub.git
     ```
 
 2.  **Navigate to the project directory**
