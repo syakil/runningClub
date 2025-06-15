@@ -98,4 +98,4 @@ You need to have the following software installed:
 
 This project was built as a learning exercise by following the "Learn ASP.NET Core MVC" tutorial series. A huge thank you to the creator for the excellent and informative content.
 
-* [Link to the YouTube Playlist or Course](https://www.youtube.com/playlist?list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siOhttps://www.youtube.com/playlist?list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO)
+* [Link to the YouTube Playlist or Course](https://www.youtube.com/playlist?list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO)
